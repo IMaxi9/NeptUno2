@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at zxspectrum.sv(60): object "DAC_L" differs only in case from object "dac_l" in the same scope File: D:/FPGA/Neptuno2/Spectrum_Cyclone4_GX-master/zxspectrum.sv Line: 60
+Info (10281): Verilog HDL Declaration information at zxspectrum.sv(62): object "DAC_R" differs only in case from object "dac_r" in the same scope File: D:/FPGA/Neptuno2/Spectrum_Cyclone4_GX-master/zxspectrum.sv Line: 62

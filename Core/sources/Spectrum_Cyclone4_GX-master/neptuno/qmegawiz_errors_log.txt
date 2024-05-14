@@ -1,0 +1,46 @@
+
+
+E:/work/fpga/cyclone4/Spectrum_Cyclone4_GX-master/neptuno/pll.v
+
+Apr 17 09AM:40:09>: Error in CNX file format.
+
+Error messages are listed in file
+E:/work/fpga/cyclone4/Spectrum_Cyclone4_GX-master/neptuno/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+D:/FPGA/Neptuno2/Spectrum_Cyclone4_GX-master/neptuno/pll.v
+
+Dec 29 12AM:21:48>: Error in CNX file format.
+
+Error messages are listed in file
+D:/FPGA/Neptuno2/Spectrum_Cyclone4_GX-master/neptuno/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+D:/FPGA/Neptuno2/Spectrum_Cyclone4_GX-master/neptuno/pll.v
+
+Dec 29 10PM:32:54>: Error in CNX file format.
+
+Error messages are listed in file
+D:/FPGA/Neptuno2/Spectrum_Cyclone4_GX-master/neptuno/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+D:/FPGA/Neptuno2/Spectrum_Cyclone4_GX-master/neptuno/pll.v
+
+Jan 08 10PM:48:10>: Error in CNX file format.
+
+Error messages are listed in file
+D:/FPGA/Neptuno2/Spectrum_Cyclone4_GX-master/neptuno/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+D:/FPGA/Neptuno2/Spectrum_Cyclone4_GX-master/neptuno/pll.v
+
+Feb 08 10PM:45:53>: Error in CNX file format.
+
+Error messages are listed in file
+D:/FPGA/Neptuno2/Spectrum_Cyclone4_GX-master/neptuno/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)

@@ -1,0 +1,10 @@
+
+
+C:/fpga/Cyclone4/ep4cx150/MinimigAGA-MiST-TC64-master/rtl/uareloaded/amiga_clk_altera.v
+
+Jul 28 01PM:32:35>: Error in CNX file format.
+
+Error messages are listed in file
+C:/fpga/Cyclone4/ep4cx150/MinimigAGA-MiST-TC64-master/rtl/uareloaded/amiga_clk_altera.cnxerr.
+
+Can't create the custom megafunction variation file(s)
