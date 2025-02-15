@@ -1,0 +1,147 @@
+Flow report for nes
+Wed Jan 15 23:19:52 2025
+Quartus Prime Version 17.0.2 Build 602 07/19/2017 SJ Standard Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Flow Summary
+  3. Flow Settings
+  4. Flow Non-Default Global Settings
+  5. Flow Elapsed Time
+  6. Flow OS Summary
+  7. Flow Log
+  8. Flow Messages
+  9. Flow Suppressed Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++--------------------------------------------------------------------------------------+
+; Flow Summary                                                                         ;
++------------------------------------+-------------------------------------------------+
+; Flow Status                        ; Successful - Wed Jan 15 23:19:39 2025           ;
+; Quartus Prime Version              ; 17.0.2 Build 602 07/19/2017 SJ Standard Edition ;
+; Revision Name                      ; nes                                             ;
+; Top-level Entity Name              ; NES_mc2                                         ;
+; Family                             ; Cyclone IV E                                    ;
+; Device                             ; EP4CE22F17C8                                    ;
+; Timing Models                      ; Final                                           ;
+; Total logic elements               ; 19,776 / 22,320 ( 89 % )                        ;
+;     Total combinational functions  ; 17,830 / 22,320 ( 80 % )                        ;
+;     Dedicated logic registers      ; 7,855 / 22,320 ( 35 % )                         ;
+; Total registers                    ; 7906                                            ;
+; Total pins                         ; 133 / 154 ( 86 % )                              ;
+; Total virtual pins                 ; 0                                               ;
+; Total memory bits                  ; 100,818 / 608,256 ( 17 % )                      ;
+; Embedded Multiplier 9-bit elements ; 27 / 132 ( 20 % )                               ;
+; Total PLLs                         ; 1 / 4 ( 25 % )                                  ;
++------------------------------------+-------------------------------------------------+
+
+
++-----------------------------------------+
+; Flow Settings                           ;
++-------------------+---------------------+
+; Option            ; Setting             ;
++-------------------+---------------------+
+; Start date & time ; 01/15/2025 23:13:44 ;
+; Main task         ; Compilation         ;
+; Revision Name     ; nes                 ;
++-------------------+---------------------+
+
+
++---------------------------------------------------------------------------------------------------------------------------------------+
+; Flow Non-Default Global Settings                                                                                                      ;
++---------------------------------------------------+----------------------------------------+---------------+-------------+------------+
+; Assignment Name                                   ; Value                                  ; Default Value ; Entity Name ; Section Id ;
++---------------------------------------------------+----------------------------------------+---------------+-------------+------------+
+; ALLOW_POWER_UP_DONT_CARE                          ; Off                                    ; On            ; --          ; --         ;
+; COMPILER_SIGNATURE_ID                             ; 105564157072690.173697202405248        ; --            ; --          ; --         ;
+; ENABLE_SIGNALTAP                                  ; Off                                    ; --            ; --          ; --         ;
+; FITTER_EFFORT                                     ; Standard Fit                           ; Auto Fit      ; --          ; --         ;
+; FMAX_REQUIREMENT                                  ; 114 MHz                                ; --            ; --          ; --         ;
+; MAX_CORE_JUNCTION_TEMP                            ; 85                                     ; --            ; --          ; --         ;
+; MIN_CORE_JUNCTION_TEMP                            ; 0                                      ; --            ; --          ; --         ;
+; OUTPUT_IO_TIMING_FAR_END_VMEAS                    ; Half Signal Swing                      ; --            ; --          ; --         ;
+; OUTPUT_IO_TIMING_FAR_END_VMEAS                    ; Half Signal Swing                      ; --            ; --          ; --         ;
+; OUTPUT_IO_TIMING_NEAR_END_VMEAS                   ; Half Vccio                             ; --            ; --          ; --         ;
+; OUTPUT_IO_TIMING_NEAR_END_VMEAS                   ; Half Vccio                             ; --            ; --          ; --         ;
+; PARTITION_COLOR                                   ; -- (Not supported for targeted family) ; --            ; NES_mc2     ; Top        ;
+; PARTITION_FITTER_PRESERVATION_LEVEL               ; -- (Not supported for targeted family) ; --            ; NES_mc2     ; Top        ;
+; PARTITION_NETLIST_TYPE                            ; -- (Not supported for targeted family) ; --            ; NES_mc2     ; Top        ;
+; PHYSICAL_SYNTHESIS_ASYNCHRONOUS_SIGNAL_PIPELINING ; On                                     ; Off           ; --          ; --         ;
+; PHYSICAL_SYNTHESIS_COMBO_LOGIC                    ; On                                     ; Off           ; --          ; --         ;
+; PHYSICAL_SYNTHESIS_REGISTER_DUPLICATION           ; On                                     ; Off           ; --          ; --         ;
+; PHYSICAL_SYNTHESIS_REGISTER_RETIMING              ; On                                     ; Off           ; --          ; --         ;
+; PLACEMENT_EFFORT_MULTIPLIER                       ; 4.0                                    ; 1.0           ; --          ; --         ;
+; POWER_BOARD_THERMAL_MODEL                         ; None (CONSERVATIVE)                    ; --            ; --          ; --         ;
+; POWER_PRESET_COOLING_SOLUTION                     ; No Heat Sink With Still Air            ; --            ; --          ; --         ;
+; PROJECT_OUTPUT_DIRECTORY                          ; out                                    ; --            ; --          ; --         ;
+; ROUTER_EFFORT_MULTIPLIER                          ; 4.0                                    ; 1.0           ; --          ; --         ;
+; SEED                                              ; 2                                      ; 1             ; --          ; --         ;
+; SMART_RECOMPILE                                   ; On                                     ; Off           ; --          ; --         ;
+; TCO_REQUIREMENT                                   ; 2 ns                                   ; --            ; --          ; --         ;
+; TOP_LEVEL_ENTITY                                  ; NES_mc2                                ; nes           ; --          ; --         ;
+; TPD_REQUIREMENT                                   ; 2 ns                                   ; --            ; --          ; --         ;
+; TSU_REQUIREMENT                                   ; 2 ns                                   ; --            ; --          ; --         ;
+; USE_GENERATED_PHYSICAL_CONSTRAINTS                ; Off                                    ; --            ; --          ; eda_palace ;
+; USE_SIGNALTAP_FILE                                ; out/cpu.stp                            ; --            ; --          ; --         ;
++---------------------------------------------------+----------------------------------------+---------------+-------------+------------+
+
+
++-------------------------------------------------------------------------------------------------------------------------------+
+; Flow Elapsed Time                                                                                                             ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Module Name               ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Analysis & Synthesis      ; 00:03:11     ; 1.0                     ; 5010 MB             ; 00:03:25                           ;
+; Fitter                    ; 00:02:33     ; 1.1                     ; 5794 MB             ; 00:05:12                           ;
+; Assembler                 ; 00:00:03     ; 1.0                     ; 4739 MB             ; 00:00:03                           ;
+; TimeQuest Timing Analyzer ; 00:00:11     ; 1.5                     ; 5037 MB             ; 00:00:16                           ;
+; Total                     ; 00:05:58     ; --                      ; --                  ; 00:08:56                           ;
++---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+
+
++-----------------------------------------------------------------------------------------+
+; Flow OS Summary                                                                         ;
++---------------------------+------------------+------------+------------+----------------+
+; Module Name               ; Machine Hostname ; OS Name    ; OS Version ; Processor type ;
++---------------------------+------------------+------------+------------+----------------+
+; Analysis & Synthesis      ; DESKTOP-036NO0E  ; Windows 10 ; 10.0       ; x86_64         ;
+; Fitter                    ; DESKTOP-036NO0E  ; Windows 10 ; 10.0       ; x86_64         ;
+; Assembler                 ; DESKTOP-036NO0E  ; Windows 10 ; 10.0       ; x86_64         ;
+; TimeQuest Timing Analyzer ; DESKTOP-036NO0E  ; Windows 10 ; 10.0       ; x86_64         ;
++---------------------------+------------------+------------+------------+----------------+
+
+
+------------
+; Flow Log ;
+------------
+quartus_map --read_settings_files=on --write_settings_files=off nes -c nes
+quartus_fit --read_settings_files=off --write_settings_files=off nes -c nes
+quartus_asm --read_settings_files=off --write_settings_files=off nes -c nes
+quartus_sta nes -c nes
+
+
+

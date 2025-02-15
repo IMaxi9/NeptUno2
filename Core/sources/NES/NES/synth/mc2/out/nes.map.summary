@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Jan 15 23:16:57 2025
+Quartus Prime Version : 17.0.2 Build 602 07/19/2017 SJ Standard Edition
+Revision Name : nes
+Top-level Entity Name : NES_mc2
+Family : Cyclone IV E
+Total logic elements : 21,942
+    Total combinational functions : 17,817
+    Dedicated logic registers : 7,987
+Total registers : 7987
+Total pins : 133
+Total virtual pins : 0
+Total memory bits : 100,818
+Embedded Multiplier 9-bit elements : 27
+Total PLLs : 1

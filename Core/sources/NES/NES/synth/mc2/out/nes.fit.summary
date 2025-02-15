@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Jan 15 23:19:31 2025
+Quartus Prime Version : 17.0.2 Build 602 07/19/2017 SJ Standard Edition
+Revision Name : nes
+Top-level Entity Name : NES_mc2
+Family : Cyclone IV E
+Device : EP4CE22F17C8
+Timing Models : Final
+Total logic elements : 19,776 / 22,320 ( 89 % )
+    Total combinational functions : 17,830 / 22,320 ( 80 % )
+    Dedicated logic registers : 7,855 / 22,320 ( 35 % )
+Total registers : 7906
+Total pins : 133 / 154 ( 86 % )
+Total virtual pins : 0
+Total memory bits : 100,818 / 608,256 ( 17 % )
+Embedded Multiplier 9-bit elements : 27 / 132 ( 20 % )
+Total PLLs : 1 / 4 ( 25 % )

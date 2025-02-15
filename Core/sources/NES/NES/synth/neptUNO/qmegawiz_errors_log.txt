@@ -1,0 +1,10 @@
+
+
+D:/FPGA/Neptuno2SPI7125/NES/NES/synth/neptUNO/clk.v
+
+Jan 14 09PM:25:59>: Error in CNX file format.
+
+Error messages are listed in file
+D:/FPGA/Neptuno2SPI7125/NES/NES/synth/neptUNO/clk.cnxerr.
+
+Can't create the custom megafunction variation file(s)

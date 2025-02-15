@@ -1,0 +1,297 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "SDRAM_A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_A[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_A[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_A[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_A[7]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_A[8]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_A[9]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_A[10]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_A[11]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_A[12]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQMH",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQML",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_nCS",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_nWE",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_nRAS",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_nCAS",
+					"strict" : false
+				},
+				{
+					"name" : "joy_clock_o",
+					"strict" : false
+				},
+				{
+					"name" : "joy_load_o",
+					"strict" : false
+				},
+				{
+					"name" : "joy_p7_o",
+					"strict" : false
+				},
+				{
+					"name" : "AUDIO_L",
+					"strict" : false
+				},
+				{
+					"name" : "AUDIO_R",
+					"strict" : false
+				},
+				{
+					"name" : "SCLK",
+					"strict" : false
+				},
+				{
+					"name" : "LRCLK",
+					"strict" : false
+				},
+				{
+					"name" : "SDIN",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[4]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_R[5]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[4]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_G[5]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[4]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_B[5]",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_HS",
+					"strict" : false
+				},
+				{
+					"name" : "VGA_VS",
+					"strict" : false
+				},
+				{
+					"name" : "SPI_DO",
+					"strict" : false
+				},
+				{
+					"name" : "LED",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[7]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[8]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[9]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[10]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[11]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[12]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[13]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[14]",
+					"strict" : false
+				},
+				{
+					"name" : "SDRAM_DQ[15]",
+					"strict" : false
+				},
+				{
+					"name" : "ps2_clk_io",
+					"strict" : false
+				},
+				{
+					"name" : "ps2_data_io",
+					"strict" : false
+				},
+				{
+					"name" : "clock_50_i",
+					"strict" : false
+				},
+				{
+					"name" : "SPI_DI",
+					"strict" : false
+				},
+				{
+					"name" : "SPI_SCK",
+					"strict" : false
+				},
+				{
+					"name" : "SPI_SS2",
+					"strict" : false
+				},
+				{
+					"name" : "joy_data_i",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
