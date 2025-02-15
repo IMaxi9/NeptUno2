@@ -1,0 +1,55 @@
+
+
+D:/FPGA/Neptuno2/SMS_mist-master/SMS/neptUNO/pll.vhd
+
+May 16 11PM:16:37>: Error in CNX file format.
+
+Error messages are listed in file
+D:/FPGA/Neptuno2/SMS_mist-master/SMS/neptUNO/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+D:/FPGA/Neptuno2SPI7125/SMS_mist-master/SMS/neptUNO/pll.vhd
+
+May 20 10PM:59:10>: Error in CNX file format.
+
+Error messages are listed in file
+D:/FPGA/Neptuno2SPI7125/SMS_mist-master/SMS/neptUNO/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+D:/FPGA/Neptuno2SPI7125/SMS_mist-master/SMS/neptUNO/pll.vhd
+
+Jun 04 10PM:38:30>: Error in CNX file format.
+
+Error messages are listed in file
+D:/FPGA/Neptuno2SPI7125/SMS_mist-master/SMS/neptUNO/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+D:/FPGA/Neptuno2SPI7125/SMS_mist-master/SMS/neptUNO/pll.vhd
+
+Jan 14 12AM:05:31>: Error in CNX file format.
+
+Error messages are listed in file
+D:/FPGA/Neptuno2SPI7125/SMS_mist-master/SMS/neptUNO/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+D:/FPGA/Neptuno2SPI7125/SMS_mist-master/SMS/neptUNO/pll.vhd
+
+Jan 26 10PM:11:14>: Error in CNX file format.
+
+Error messages are listed in file
+D:/FPGA/Neptuno2SPI7125/SMS_mist-master/SMS/neptUNO/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+D:/FPGA/Neptuno2SPI7125/SMS_mist-master/SMS/neptUNO/pll.vhd
+
+Jan 26 10PM:21:22>: Error in CNX file format.
+
+Error messages are listed in file
+D:/FPGA/Neptuno2SPI7125/SMS_mist-master/SMS/neptUNO/pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
