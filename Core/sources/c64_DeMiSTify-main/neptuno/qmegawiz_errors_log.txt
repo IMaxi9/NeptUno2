@@ -1,0 +1,19 @@
+
+
+D:/FPGA/Neptuno2SPI7125/c64_DeMiSTify-main/de10lite/pll_c64.vhd
+
+Jan 26 10PM:08:11>: Error in CNX file format.
+
+Error messages are listed in file
+D:/FPGA/Neptuno2SPI7125/c64_DeMiSTify-main/de10lite/pll_c64.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+D:/FPGA/Neptuno2SPI7125/c64_DeMiSTify-main/de10lite/pll_c64.vhd
+
+Jan 26 10PM:09:03>: Error in CNX file format.
+
+Error messages are listed in file
+D:/FPGA/Neptuno2SPI7125/c64_DeMiSTify-main/de10lite/pll_c64.cnxerr.
+
+Can't create the custom megafunction variation file(s)

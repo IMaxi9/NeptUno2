@@ -1,0 +1,9 @@
+
+*.asm
+*.o
+firmware/controller.bin
+firmware/controller.map
+*.pof
+*.sof
+*.qws
+output_files

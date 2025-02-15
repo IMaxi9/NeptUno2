@@ -1,0 +1,3 @@
+[submodule "doc/sch"]
+	path = doc/sch
+	url =  https://github.com/jotego/ay-3-8910_reverse_engineered.git
